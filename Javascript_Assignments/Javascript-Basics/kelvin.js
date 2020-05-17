@@ -20,8 +20,9 @@ let newton = celsius * (33/10);
 //console.log(newton);
 
 newton = Math.floor(newton);
-//console.log(newton);
 
+//console.log(newton);
 console.log(`The temperature is ${newton} degrees Newton.`);
 
+//console.log(celsius);
 console.log(`The temperature is ${celsius} degrees Celsius`);
